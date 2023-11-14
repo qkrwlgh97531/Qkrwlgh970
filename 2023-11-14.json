@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Walsh",
+  "age": 34,
+  "address": {
+    "street": "Gevna Glen",
+    "city": "Uhvarbu",
+    "state": "UT",
+    "zip": "76988"
+  },
+  "contact": {
+    "phone": "(214) 416-6455",
+    "servicePhone": "800513546"
+  },
+  "birthday": "1970-10-16T15:52:26.775Z",
+  "ip": "135.40.11.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Legegil tul zi jogose du tizles tetuten abtir jen tukab urnozew abe juheguso fuigi hasaw cah. Ce ted ikiwurjak be duzasigu acuosfu jab rom pikala lavinlob ud cocmogo tior. Ilizefu vaju kub ilidevezu lu jociju ufelodka iv ji ri migras acsoc be okfu cunfule mevzav. Ve kihene lonuman fek huc wipujfa jueniha wudec tecigu nodingih jegos zunwi zemol oh suf iziizohe.",
+    "bio": "Fu puldapber rataw ta cusgegzar siccihit biffottup uvwut babapdi kicluoji paz ekbosa vepam huhim vocmeki wut. Segir le mum nuddajite jetgo lew hidito va zeblarto naumja gostu nim nar sanirti cabcaw edto ocapako. Edukid edkone isizu goreno tecmifi sitik jujemoc uwzicja bovdioh vardimcaf lub nap ka urluge joctan. Maka rusubid laubimuv obeige tob tabrueb uga fahugbu lomwahu leloc lojov ze fobmis kor lazuhel naebeale. Seawdac mo ku el zeme vain dopfigu bisura bucak vo koc abe teukcem cin hidigece."
+  },
+  "apiKey": "165d96bbd38feceb2dd65a736c7959905de7c69c8fab40c794eba246a3b44c08",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
