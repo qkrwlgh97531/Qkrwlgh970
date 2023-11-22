@@ -1,0 +1,26 @@
+{
+  "name": "Clyde Paul",
+  "age": 18,
+  "address": {
+    "street": "Loow Point",
+    "city": "Lugruvel",
+    "state": "SD",
+    "zip": "63759"
+  },
+  "contact": {
+    "phone": "(374) 544-4515",
+    "servicePhone": "800486512"
+  },
+  "birthday": "1961-01-29T11:18:38.976Z",
+  "ip": "87.212.208.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Tanfa pidneaze ev tepbuna beusa apobu bas ziwe gautim abgemu jif mo. Wacpegro zuaf to jo pidobvop co iwo zikava wikibu tit waproodo omata te to olo ek vob sisez. Fuaru hub su bujnid lozi zo teb wukcece fugdide bav mulito bumpuz.",
+    "bio": "Cor cuti waw ema zu moj tubnowav hudobow liwkep zukoti porkit ezekuli esuvuvu siacu jiguipi pat ugi maskuhiw. Dusjamof uzu adwebic aj le mowzo sutpear gis em rov sek ziji izukicu wupsunwi mehe. Tovidkow gurlut revnelop fojdokruh zonibe uhzuna dihso iplis le lauw pedodu tafafpih sikped dikja geportib hit."
+  },
+  "apiKey": "59b6b3ad731f6b9d33b1c423bb50f6f9aedadd0e389528ad5c1365ae59940d91",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
