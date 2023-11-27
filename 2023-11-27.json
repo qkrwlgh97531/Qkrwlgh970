@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Doyle",
+  "age": 63,
+  "address": {
+    "street": "Legfav Pike",
+    "city": "Siwzojjot",
+    "state": "OK",
+    "zip": "26897"
+  },
+  "contact": {
+    "phone": "(331) 771-2378",
+    "servicePhone": "800493192"
+  },
+  "birthday": "1984-01-10T01:06:52.562Z",
+  "ip": "79.98.101.203",
+  "foo": "bar",
+  "profile": {
+    "about": "Mepehno zegut tol ubteka fogdilwi becasoh vaep nadwo selneznuj juzuoj gadzo ele fitobupi evamef tikzav rufi. Fe dewvuw lesigmi oftinba duasge cirtinpu zoozva rino ifkeplul po ho ab inluj ni zakdohal zugiduc rapdilzi. Tavvo juv upbog luaha cic tevaz ror viz lohejibi fobep ikenira midun.",
+    "bio": "Terigi uvtu cahkafi suhbob ruboz rur fusonohuz ciunhu hosowcu kuraw puswevla kub we epiwa huzevpin. Wijugi benomu wocvalak wolos luetelo gu abugowi ezamirut wi owe lem me zi. Ru kateljok zuju hogvub petim wukmesa non ed cu hu imapo iraec sajikco redevon jevut mitowon."
+  },
+  "apiKey": "5b9e98795054b68440eddde0ae087d08118785d7c78fb0d05041932528c2b061",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
