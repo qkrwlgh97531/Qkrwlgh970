@@ -1,0 +1,26 @@
+{
+  "name": "Frank Copeland",
+  "age": 28,
+  "address": {
+    "street": "Couw Plaza",
+    "city": "Tujnuan",
+    "state": "MN",
+    "zip": "37199"
+  },
+  "contact": {
+    "phone": "(266) 836-5182",
+    "servicePhone": "800921452"
+  },
+  "birthday": "1992-09-10T04:21:31.272Z",
+  "ip": "104.64.156.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Lorapul tifu fabgad ajive ed ecopaul umimze tubuolu poci gu duola vidlocmo ujo se mecovuca asteim. Olo abairumag kesrez iso firnabvo otupuh eratukebo otoingo afgig ute coger muwuwaes ohlilun hemlen gevatu agputeb ge pakvi. Soweze fegeccir ve li im ducje ebuavanun epa oszoju mojucwi be kan.",
+    "bio": "Waknin ho in ri suj safnucvuk ne durol makhapsij bowoj go hoizane ewe cowwetob rawaz moda. Girechab lijgowu kidi ibu ohasupo ciihzac nihoreki nab jicvo re juc sev nuogolo lolida bolba vurnim. Pahat ca be gima cod su ozu doperal soc wijassuz du nitubo vob fabmu."
+  },
+  "apiKey": "8d29987324b56c824be1079d882dee4a339f50440d6d5c3ab01127d2662accfc",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
