@@ -1,0 +1,26 @@
+{
+  "name": "Derrick Patrick",
+  "age": 20,
+  "address": {
+    "street": "Rino Trail",
+    "city": "Zulujezig",
+    "state": "OK",
+    "zip": "74542"
+  },
+  "contact": {
+    "phone": "(872) 430-7599",
+    "servicePhone": "800635547"
+  },
+  "birthday": "2006-08-20T15:22:21.454Z",
+  "ip": "252.84.45.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Etsifo tarwiiri tubsapevo foiwa pubu elnosus ridubila mugnini vunufitol deozto pefde emwomu tu. Ci od ina bubedaler nohfenig tezer re at efi canwi walekzo tufhinbi hu jede iwbuv mak kabaco. Hiwu luovo unu kokto va cacji pen eho ucovi em zano savud tog pa.",
+    "bio": "Tosukucis muwpalzi go jomam ra rif aggo heojazeh vu muuwu gon ruv agfi. Hovvo ju kov sijve tedfug ribevu ti kokonev lebaupi bapvo heasopaf firos. Hopres ti gocge edzag vun co zip notab ak al epejil uv higta zijuk ub cohagha zikeh. Evoeji bosovij lih go hom multa razki jite se cuwlu cerilgev fazon vilnodis ifu jowvivmul. Ip mupuw beza co gosneros cuto ke du riit emunadew mewce repij. Uwa pukdoddo kawo elacuv veh cuzpik sohanrij jev muhegeba huhzowuri bichesaj ri ke jedo. Uf nak kuumzi pavfumbav vivawdur nezu tawufo mapolda upiwi kofbefra cowed rebi."
+  },
+  "apiKey": "dc091f4444aabfcd70f8d664d367bcfd1256f2a5e20f68022e282f9c7e3a6642",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
