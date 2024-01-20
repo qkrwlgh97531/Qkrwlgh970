@@ -1,0 +1,26 @@
+{
+  "name": "Alta Miles",
+  "age": 50,
+  "address": {
+    "street": "Hulen Grove",
+    "city": "Merisef",
+    "state": "OR",
+    "zip": "44377"
+  },
+  "contact": {
+    "phone": "(326) 604-8284",
+    "servicePhone": "800298452"
+  },
+  "birthday": "1994-09-22T01:42:39.167Z",
+  "ip": "162.210.220.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Hahwam tastojma cof okoku gofwo wu degdo onbibpu do lidtebaf med relcor ogovah uroreha af ikpibar. Tamegisow wam vorbam kedupo apairah ajow juthot temesa ceir iwuetabi acjo cu ni vovalsas jajedna kikaow bezkib. Tuwuna domatini lahumleb if wab pejnac hibco van felomse wetsu dabpo kepaj at re hetal mi dojekkuj kaoja. Kokta faipwoh toz lowug ci nairotu pa ogaze zuuwhuc gak oha labvudu ju aj raflaot rebsow gum. Guzor kawhetaw janwom rusuz naser ak heji arbaem zibre zuhoju wot hur ted si ri fu. Kal mis danva nini noh buw bipkanew deh rawmaz fajokowi cogakoiwi tuwosone gevakoj ma tedim jirra lu pajzaew. Seji sowiduwe uhuziav wo me li cutzabvug ok pe cisonpom zos jegi viz goc uzzutga.",
+    "bio": "Jim jaljuhus foba el elvaduh hoeti ki cohaj fifuwfe mujpaj ilu mojohpo giezno. Bijuhu asjitmar usi ceic omomof siber nushova watmal wu ajioded fi dikwoj. Tugeki zidi ped hecfi or suvom zulge sunomuh hoh kumugwo esudira fumfo zi kornih uli ge zijzav."
+  },
+  "apiKey": "d4a3337a50bd8836a6e29ab7866a307459d0f848926b71e8a907f569db48e453",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
