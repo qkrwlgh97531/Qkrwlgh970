@@ -1,0 +1,26 @@
+{
+  "name": "Tony Little",
+  "age": 44,
+  "address": {
+    "street": "Veti Circle",
+    "city": "Aponojmel",
+    "state": "NC",
+    "zip": "10750"
+  },
+  "contact": {
+    "phone": "(243) 974-7950",
+    "servicePhone": "800648822"
+  },
+  "birthday": "1986-04-16T04:13:56.144Z",
+  "ip": "55.206.142.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Neh tobat jil gadoik gesko de za gum dunofovo mafzo ni ciffeg zig lo osda rigogo dimle vejeze. Viwnoze te sutis von udotegnuz tas pot sim dozwawu likdun kib bazaf ugtul luknedul abiuv kobhamo oroja mucadit. Fub nu weptuhzip ze wibdeko fapdek hi ab tatpil widlidho penodoroz moj cekcej vuba cirdom. Bin pomal ruc masbokuj wuhfe doozve gonfig wec nowgun ehredeja cib bozaiba waneb jiahrok vicnebun metdosdu pesokaweb ube. Jewcijup tewuwib isefimeb fe cosaej lupmoca zebebut toc keov su le vialo.",
+    "bio": "Vu zufwag poljir rigmisaw vunves co corrif go nozpo ino gatadva fe. Bedo majofa adme mufjiscen kus neka ar ujo ati gupma tu vo danoci datali alezoji vewamba lew ahasug. One cafogdi nadrusgub jiod zu dofa ja vouwo rukmapod awasa sa ge tieg ka heom."
+  },
+  "apiKey": "da25e6897a00ea64d5cd306ab9c0e5b4ee38bd3969522a74d7059a7fafc3de9d",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
