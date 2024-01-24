@@ -1,0 +1,26 @@
+{
+  "name": "Lizzie Holt",
+  "age": 22,
+  "address": {
+    "street": "Buah Manor",
+    "city": "Peteso",
+    "state": "WV",
+    "zip": "21486"
+  },
+  "contact": {
+    "phone": "(279) 929-2818",
+    "servicePhone": "800351515"
+  },
+  "birthday": "2006-07-15T10:07:07.318Z",
+  "ip": "244.38.166.53",
+  "foo": "bar",
+  "profile": {
+    "about": "Romawdot rudukdet befunpa juvan rum nega be if edi canmeb ler nufilok. Jo hafmoh suz penfewow rujhepaz faki abuedi nubkuuwu ipfeuve lemod ic lub idi hev. Uj oniafi ihoel paojigum gow ulopizde ujifatoc kah uzu fa fojubu ge eruisopa gobadle. Ro wefse navaf zejaj mo hu terjofwam betlibu sowro mis gisfo loppam zebuko sivevfas. Maszejij eji ge hemaje feaw vaomisud titek he mefejgej temnob onobsi deztese lel tabize rimi. Nejama suifzeg muvrunu zusnel ed suda og we piazapo fac sokijkag wi raodibud kebanuf zamavo zu. Ha va ere lo ku owe dibu lak fotimih vo uf hugo pujnu raha vamru lugamu hevikwid.",
+    "bio": "Dore giham hu sipacas jirhog paudomoh serup hofuw di ime atoobewu gi we ref to ocete wuphutu vi. Ocego rutev puboj gofpo pa dudre ligeg karlewba jahil dempow foahod barvecli. Lir ehorot tagcad poskubba bukcomic ba wir fodaw eh wo pu wifziw urtada lekhomih dug rihwi."
+  },
+  "apiKey": "c1d23bf5cd688885694d6653c952d35eaafeae64acd94956fc5d04fe1f9c6cc3",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
