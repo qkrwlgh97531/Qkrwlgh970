@@ -1,0 +1,26 @@
+{
+  "name": "Owen Delgado",
+  "age": 45,
+  "address": {
+    "street": "Vabo Court",
+    "city": "Fojivo",
+    "state": "MI",
+    "zip": "45632"
+  },
+  "contact": {
+    "phone": "(778) 369-1154",
+    "servicePhone": "800749993"
+  },
+  "birthday": "1979-08-02T21:20:43.743Z",
+  "ip": "243.165.17.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuk nu vogahrob muwo ithor jazeslu luihatih tec vudbuze ebafiggab boopi tojur fifrogi cel unahonuz zigzimud. Wetiki ma le lusadhu tuja zutdoh guveple ta aso ani afiuw fovvaf vojho. Dicsoh me ve zonazmev bohizek tan nec ohuila iheomu gitob ducnufre volnedu hof hi canafemaf.",
+    "bio": "Dunebpek vi ho ocapesjos bogkuj rikoci ojnemih nuwjugsom ukbaabu ofuti zugoc ejuliwok lihte zim ta nizse kekugel duuloja. Cebuwzu aroje kosrem eziohoosi tad sol hude jodpiton rucozodo vaniz elodib fawi. Nerid da um ecucusu seg irrepuk kil uhunfuk namuc cutsa ledzonhuz dupsinos pi kojoku faeva. Tuz lume nutwi nitih aglozo pestic berva pumace foimcu jat sol remiburi win nadbo wav napvecvo zojratibi petfufo."
+  },
+  "apiKey": "519562daf5b38704b585967b46a9bc57795a384c70296a787ffb64c0fc5b9d66",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
