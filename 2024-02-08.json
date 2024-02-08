@@ -1,0 +1,26 @@
+{
+  "name": "Steve Ball",
+  "age": 22,
+  "address": {
+    "street": "Waggu View",
+    "city": "Guzvusami",
+    "state": "CO",
+    "zip": "77689"
+  },
+  "contact": {
+    "phone": "(527) 384-9329",
+    "servicePhone": "800776182"
+  },
+  "birthday": "1968-01-14T01:00:00.506Z",
+  "ip": "107.70.237.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Vuhjug cana judzamuz mippat os ivi ekebede sonviipe du cimkosje coneg telvod uwahucaj. Fup ve nuv ti iz sadagwik ned guj kel si zapijo ajataar dagathol. Dibas agonudu if fazzupos ogire umivav rijoh pilpup bitvi enoupo fibuwwo ipa direace ohojaw fonvef bapon.",
+    "bio": "Pegoh er nod ba egu wahilsuf ni kijowhi jo oji ip no cudtak nedeol fomoke hidabap hu nivrugufe. Atigo noj hofebiete huagafu keukudah vagdoha nobnolav sidanu ku takot dumluj uku ahoceswec popmod. Ikga jer daatla itmuz cigewo zesheim cu kuwgatje tikjos medjud kuso ofauvubi umpig muocila. Gi zov zazcih gaor vu fov pe zarnu abo we tis dez."
+  },
+  "apiKey": "fc9cf142f715be22af75d5402f7d38f7ac0b5411347da54245e4fb02489effde",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
