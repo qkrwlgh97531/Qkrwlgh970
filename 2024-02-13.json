@@ -1,0 +1,26 @@
+{
+  "name": "Mina Mann",
+  "age": 37,
+  "address": {
+    "street": "Imued Trail",
+    "city": "Wudsodgon",
+    "state": "NY",
+    "zip": "08451"
+  },
+  "contact": {
+    "phone": "(456) 278-5310",
+    "servicePhone": "800857592"
+  },
+  "birthday": "1965-02-05T09:45:53.249Z",
+  "ip": "9.16.175.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Gu udiworviw teesupe hap izojuri leeta tifpojle ithappag ono kucoc zimco sorofo ufsumsip. Hafjukap febva acsefa homesu la juenuon galad sitaiva sek wuh suj cubuasi kaz cowibu li pecdurije. Nehufmu sosemuv wabzufuf rih ne sipegoc uda epu be higavemi egjeffa punjijku gerwak suhih bejgupte fibodo ivaunooc. Tacgiuhi kazpajor fi ubimip hobosu setoaca jiv muhnuk oki wa naen dero unmunum ogoco cu wejeho.",
+    "bio": "Pobelton jewezo abuze akefu awsa jiwug uzo hi mo libe vev pelu zeki. Zevgipid hatungib rilicam hucuv udipes lafuje jorerebog bok ga widu jap esiso ziw kovulaj. Biz rulicu ni uv icnij jaw ewoto zevkez ubiwajmi uka kuzak fam."
+  },
+  "apiKey": "1321e7abc01a0e6fecf47a17eedd9c7c7660fc51fca6d0073cca28dd13af9105",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
