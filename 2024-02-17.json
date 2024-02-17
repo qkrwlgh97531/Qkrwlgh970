@@ -1,0 +1,26 @@
+{
+  "name": "Kate Daniel",
+  "age": 45,
+  "address": {
+    "street": "Cumpa Pike",
+    "city": "Kimulese",
+    "state": "IL",
+    "zip": "75524"
+  },
+  "contact": {
+    "phone": "(840) 471-1912",
+    "servicePhone": "800953967"
+  },
+  "birthday": "2004-03-18T07:56:27.384Z",
+  "ip": "232.1.129.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Dazu if efeval ubraog ilem vam elpu feci vu saikta ki efag iduhis jaivgi ojiaboho. Haghug rogsu cumfa kicoava lo movabi uf ojwi vij piuvpuh wiju rucala. Kazpu jatvaghal memuswir si kawuel wa su ecanireb ogveilo gupgamep sakiga ifub tufmola nahapuca hubzo diwisav.",
+    "bio": "Sob nisid wagiumo zed taac ekiajumaj sezacir meawode gabew buplufof iljozig mil. Jatac najainu fifgalgu demvoon co lok gafut lo zenosob nekrej futa zazvibvuw. Ala cunuba wonog joto keiriosu wupazga fa meeze rimwil hat awoza nosi fewji pi nav bijzonmit rahfeofe volfiset. Nugzowi omnufi icor botvo ozoje ririgadut sedu ripopzi ela sojbarjas ha sisahtit wup lertetul zezit."
+  },
+  "apiKey": "48f9eff1876219052f1f608774ac71fddd34db00946cb7c05fe5ddaa14b4b418",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
