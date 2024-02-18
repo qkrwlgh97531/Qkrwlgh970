@@ -1,0 +1,26 @@
+{
+  "name": "Josie Smith",
+  "age": 44,
+  "address": {
+    "street": "Cene Street",
+    "city": "Irfatih",
+    "state": "AR",
+    "zip": "04110"
+  },
+  "contact": {
+    "phone": "(367) 980-3795",
+    "servicePhone": "800284388"
+  },
+  "birthday": "1972-09-27T00:01:30.253Z",
+  "ip": "105.255.183.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Nudeg jupaf diwus utciim ruk zo ice vinem fa zi rarwul ikimusle likulsa. Feuwti raohzu vihuwa jo hinuhas punrice de sic zokuvzez hibcobcu pa re rigteha giweto kur dah caov. Acbuk ipe ewu sekucze ba jorowi fuk biwsuhuf kanvemmov ra puriju wimza dor pev. Ihisonaz zu parowwem nicbi noc loglelco afnot catef div ku lo uftedoz. Ris lothazow teguvras ranujsog pikubek goovo pigohli gusijhow ra ciwoj moteime tol nuv pelhinij. Tabnab hucaok pawru hugjad ehwafhe mi zecabvav gir pazep dotcek gizpu zoipu bipeg pegi nujurem mug ik wumut.",
+    "bio": "Disav cew iki lopeiju met wo uzimu azgiz ci cafad musigugu ekiinva vir limesti vanrok su na evi. Vub se nuz putup gurvu ratlu zatdebso inu rakife bukimoto sucevpej napafil derafu ukaror ilokol doc. Fewerhab ceti meko gelobi rudzu rirwajam gov ulouh fazne ibifeas fibop vuce hunhe bo neofevi rigop wecov. Ren poluku sug wejoem mojuh kivha jaj hun woccej roet wuf rujfow sodepda."
+  },
+  "apiKey": "cf5bf0d35ffe8972cf7bf1ecded181a00496e7f1e60d68fc04c89649f5345ca3",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
