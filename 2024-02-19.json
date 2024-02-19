@@ -1,0 +1,26 @@
+{
+  "name": "Cecelia Hill",
+  "age": 51,
+  "address": {
+    "street": "Joer Point",
+    "city": "Wubuja",
+    "state": "AK",
+    "zip": "14243"
+  },
+  "contact": {
+    "phone": "(839) 653-7322",
+    "servicePhone": "800845999"
+  },
+  "birthday": "2004-09-01T00:21:22.904Z",
+  "ip": "4.185.235.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Fac widga ero ge kejnictoc cehrucne on gohvaha jenlezrep jewnelto rake do sov reh ugpan. Fa he ecgu dijpewmov pujfem nodpuhjo kaethi ropa umrit za gu lurwidu cij goclob. Fan insi emza heero mu sanatana gahtazfe azsi capuhto rik ruwe caefobu tupto sizka.",
+    "bio": "Toljun ra emi lew vimlewtu ufevewap fibmecrin le afutiwu okabog zejfad asi. Awijaf pujeb ni pira zomsuzfok pibgo eropaz tihe pib jutobigu mioku rape temwet he menur mi perem. Edri eb safiz wi bor ollencew gazeke zidbol jumukfe bemesas vehun dambudfo. Setijin jomoiz poheopu vahcoduv sapjuzulo dihvef curfig hocvunu vimumupa lo pidwuju iv wesla ceuskas gu."
+  },
+  "apiKey": "5e1ffcbaf46134b974896e3a042b4e907dc76076f35aa1199bb853cbb43b480c",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
