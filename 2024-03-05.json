@@ -1,0 +1,26 @@
+{
+  "name": "Brian McKenzie",
+  "age": 27,
+  "address": {
+    "street": "Tohil Junction",
+    "city": "Lamogurig",
+    "state": "PA",
+    "zip": "04600"
+  },
+  "contact": {
+    "phone": "(860) 498-5018",
+    "servicePhone": "800962336"
+  },
+  "birthday": "1970-07-30T15:52:30.294Z",
+  "ip": "103.119.230.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Zula zol nap gubu diobihe ju jogbac idvirnoz uterazi dasaj ve keruahe. Fuscaccu tolonew rorha mamlatwun zanivkes ehraj relaf caviod go ehuusuoh bab unu gab jihe dogeh ce. Repvil nugus iniutu motlo laca doso vokebemu aczic usmuuhu vimumci en beuwiz bu. Seju ma em magub jij riwebak dilovcis figwopir fil fo okkog uf cal rap cocra jawunob poz ji.",
+    "bio": "Fad er egza misale du biv ma kil liem lusliti be se kacikir. Fit pemrul ufe zikanran honaf figduf cizwe orhem sauh lirot jucjut pumirut gi veofewe negjok lu fovzoj burdo. Aha ko huzaruvar kugzaba cechel pitda heh dudogkiz ikjer tuno beel lacalec caebaze lewafob."
+  },
+  "apiKey": "1fb34e3b3577eb1a8436f96b2fa29cfd9c1d0d1711a0c14f2d58cc4e3a1f7a6e",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
