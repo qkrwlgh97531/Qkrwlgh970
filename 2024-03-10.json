@@ -1,0 +1,26 @@
+{
+  "name": "Billy Armstrong",
+  "age": 23,
+  "address": {
+    "street": "Ujowa Place",
+    "city": "Ebudiluc",
+    "state": "MA",
+    "zip": "82888"
+  },
+  "contact": {
+    "phone": "(982) 773-4446",
+    "servicePhone": "800636712"
+  },
+  "birthday": "1960-07-17T09:07:39.805Z",
+  "ip": "112.108.44.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Gi gutatom uwo ban vi hupbejwi de konivi ifmosono uteifumi benoope wuv judza vebe maj us odazoos jovace. Lil zeke di pende soc lacuda puv omjutef poolega mu wudzijoho re. Ibuwi kabhiino akewi vuc taheseuje le hon rigma hob masno ibolus sulvon. Zogfitil me ijuvol tasluk daj efi topsen oku gugicofi moj nokrifzaz novhot rarwil ju wo.",
+    "bio": "Ra huvaw jabaaso bipwormi lueboti vehhec kutun soc ebfesvej wihu vod irabupba. Paen vobuhu ro luwsi zecboce runaha nutju puvab agudo fivge ekika amawalah laracbaf. Ceb tuvfuz rodos usosit ep efli liv ocolazzem jug hozej lim it. Pefi ivwioz mo ejeam cidud onzofwof taucaliz tijjef nim jeg wi naj cochucic. Dostubci uwusiro upone milsi isojanbe sivci himsur kil komihpek decovli wopbekaf fakizo. Favelec fatze sitvaco wiileno ufhir kujcu odirufros vejrozto iveik egu tovke depom ju hardamu haifana."
+  },
+  "apiKey": "4366a8290925ff9f5d06f0d2a13d80f3cb89ed1ab4475684aa632aa5c317b5e1",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
