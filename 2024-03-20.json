@@ -1,0 +1,26 @@
+{
+  "name": "Jerome Becker",
+  "age": 33,
+  "address": {
+    "street": "Ruzi Path",
+    "city": "Onoufgi",
+    "state": "TX",
+    "zip": "77482"
+  },
+  "contact": {
+    "phone": "(918) 859-9123",
+    "servicePhone": "800651335"
+  },
+  "birthday": "1983-11-12T14:17:49.239Z",
+  "ip": "173.163.236.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibu pujolako vin wan wez va nef okiazwi eftiep dakma avobuju se vaurnus woweh haw ut fabse. Tigmuc ce cuk ba monuw fufadfop ivega voopuini rudjo hindetno jifbocgok mus neru diciwi ho kanacito firre. Va eta nenopop dazicru erivop neshunob ujozes lubev zimivud labaja tolleh upja doc. Wiezi ero fuhvura he va fu ed duk gilijaj azapu huz jav ji odwivut tonhopjad.",
+    "bio": "Hovzop del ze pudwaro aloahujo lukcu we nuuj bagrasve ezpob fugu ca ec awelubir nutzo tovlouno. Ticbohep jeifdi sogzun vuhoj ja bo tos ug vecosmis epula dief ci soges dolu bekido na levawro wi. Gelolvan hedikhu ruvpohse ba jepi niznofa kufiz adi ej ferfosca go zog zuem ilzebtep vagige vouteru fa."
+  },
+  "apiKey": "447b491a958914822622efb4b2216d47e0d1f78c5a63b2ace102b4d2ed7ee766",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
