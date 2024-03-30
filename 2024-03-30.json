@@ -1,0 +1,26 @@
+{
+  "name": "Peter Powell",
+  "age": 19,
+  "address": {
+    "street": "Monwi Pass",
+    "city": "Ferfegusu",
+    "state": "MA",
+    "zip": "33006"
+  },
+  "contact": {
+    "phone": "(478) 980-4216",
+    "servicePhone": "800968897"
+  },
+  "birthday": "2006-08-29T01:26:35.583Z",
+  "ip": "234.20.29.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Vo zefej ni wo fi duzvosra bukood davza ran hubo ukka it supkuv am eco rig jime. Edmivles po zowsosrad sob ceburan elosa iv irire amosul deuj nofohaoj jok pogu zagonbud worren alu kesvipruk. Ifod hiango nimenom nab fi fovrof er ovouvoib nijaf gewonow sudaf marcij kup owbehwa rot sew.",
+    "bio": "Nuj caba rud ru aso wi lununo lof camawo rigalen mekebava segrehiw ifaluzi bamu halugar. Duntu ud jap bib dahih zu pete fic uro jonsuwruk lipawil guwecinaz. Cahregu dukpule unijeged ka bosjuvej dodo im mur divjokkip nu fibegdas do golej. Ja ruwnustuv ukuanav sutpop kogpow vile ottohaho kac ivgop afizifa pidinobe ru wi vipuvidu mer me ejotagu jusilah. Fi zahoc del at bomozi ogi amtef zihej ago ciszo lirjoro zubo ju tebcus te. Mero ez tul abulijavu puosu ehrarri ev forooj onwuom ji labi ica. It takupez duatba jo wazug ku goto liguv wevako pulogaoh vi mapnewoj."
+  },
+  "apiKey": "9825246614c9b9852d93d6ceefdaa454c0a00c184f7e707791574e9842a273ff",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
